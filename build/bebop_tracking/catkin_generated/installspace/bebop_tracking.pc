@@ -1,0 +1,8 @@
+prefix=/home/hz17842/tracking_ws/install
+
+Name: bebop_tracking
+Description: Description of bebop_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hz17842/tracking_ws/install/lib 
+Requires: 

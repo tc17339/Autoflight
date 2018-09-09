@@ -1,0 +1,2 @@
+bebop_tracking
+-DCATKIN_DEVEL_PREFIX=/home/hz17842/tracking_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hz17842/tracking_ws/install -G Unix Makefiles
